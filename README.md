@@ -16,3 +16,7 @@
 
 - navigation.md 파일 추가
 - 로그아웃 추가
+
+# 푸터 추가
+
+- footer.md 추가
